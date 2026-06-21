@@ -1,0 +1,26 @@
+# Environment files
+.env
+*.env
+
+# Node
+node_modules/
+npm-debug.log
+
+# Java
+target/
+bin/
+*.class
+
+# Maven
+.maven/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
