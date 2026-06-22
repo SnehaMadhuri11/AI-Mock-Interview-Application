@@ -4,7 +4,8 @@ An AI-powered mock interview platform that helps students and job seekers prepar
 
 ## 🚀 Live Demo
 
-🔗 **Application:** ai-mock-interview-application-production.up.railway.app
+
+🔗 **Application:** [AI Mock Interview Application](https://ai-mock-interview-application-production.up.railway.app)
 
 ---
 
@@ -261,8 +262,8 @@ Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
 ### Connect With Me
 
-* GitHub: https://github.com/SnehaMadhuri11
-* LinkedIn:https://www.linkedin.com/in/sneha-madhuri-vakkalagadda-b1a932309/
+* GitHub:[https://github.com/SnehaMadhuri11](https://github.com/SnehaMadhuri11)
+* LinkedIn:[https://www.linkedin.com/in/sneha-madhuri-vakkalagadda-b1a932309/](https://www.linkedin.com/in/sneha-madhuri-vakkalagadda-b1a932309/)
 
 ---
 
