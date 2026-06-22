@@ -4,9 +4,7 @@ An AI-powered mock interview platform that helps students and job seekers prepar
 
 ## 🚀 Live Demo
 
-🔗 **Application:** YOUR_RAILWAY_DEPLOYMENT_URL
-
-> Replace `YOUR_RAILWAY_DEPLOYMENT_URL` with your Railway deployment link.
+🔗 **Application:** ai-mock-interview-application-production.up.railway.app
 
 ---
 
